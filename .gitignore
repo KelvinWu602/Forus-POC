@@ -1,3 +1,3 @@
-./experiment(2023-07-23)/private_key_*.pem
-./experiment(2023-07-23)/public_key_*.pem
-./experiment(2023-07-23)/logs.txt
+experiment(2023-07-23)/private_key_*.pem
+experiment(2023-07-23)/public_key_*.pem
+experiment(2023-07-23)/logs.txt
